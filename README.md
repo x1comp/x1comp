@@ -1,4 +1,4 @@
-# Hi there 👋,
+# Hi there 👋
 ![I'm a Software Engineer](https://github.com/x1comp/x1comp/blob/main/1080x360.jpg)
 
 Hello, I'm Diyon, a 16 year old, self taught, Front-End Software Engineer based in 📌Dublin. I create websites, bots, programs and scripts for clients. 
