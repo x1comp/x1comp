@@ -3,7 +3,7 @@
 
 Hello, I'm Diyon, a 16 year old, self taught, Front-End Software Engineer based in 📌Dublin. I create websites, bots, programs and scripts for clients. 
 
-Skills:  REACT / JS / PYTHON / FLUTTER / 
+⛷ Skills:  REACT / JS / PYTHON / FLUTTER / 
 
 - 🔭 I’m currently working on Creating an Open Source Tweaking Utility called Fjord 
 - 🌱 I’m currently learning C# 
